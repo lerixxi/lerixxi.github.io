@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lerixxi.github.io/sitemap.xml
+Sitemap: https://lerixxi.github.io/slotoro-casino/sitemap.xml
+Sitemap: https://lerixxi.github.io/slotoro-polska/sitemap.xml
+Sitemap: https://lerixxi.github.io/slotoro-deutschland/sitemap.xml
+Sitemap: https://lerixxi.github.io/slotoro-bulgaria/sitemap.xml
+Sitemap: https://lerixxi.github.io/slotoro-italia/sitemap.xml
+Sitemap: https://lerixxi.github.io/slotoro-romania/sitemap.xml
+Sitemap: https://lerixxi.github.io/slotoro-hellas/sitemap.xml
+Sitemap: https://lerixxi.github.io/slotoro-lietuva/sitemap.xml
